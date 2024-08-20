@@ -76,33 +76,6 @@
 - Mongoose: An Object Data Modeling (ODM) library for MongoDB and Node.js.
 - JWT: JSON Web Tokens for securely transmitting information between parties as a JSON object.
 
-## Installation and Setup
-
-1. **Clone the repository:**
-
-    ```bash
-    git clone https://github.com/Yash-Zanzarukiya/PlayTube-Frontend.git
-    ```
-
-2. **Install dependencies:**
-
-    ```bash
-    cd PlayTube-Frontend
-    npm install
-    ```
-
-3. **Set up environment variables:**
-    Create a .env in root of project and fill in the required values in the .env file using .env.sample file
-
-4. **Start the server:**
-
-    ```bash
-    npm run dev
-    ```
-
-## Contact
-
-For any questions or suggestions, please contact me at my socials.
 
 ## Acknowledgments
 
